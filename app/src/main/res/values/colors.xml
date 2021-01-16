@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="fram">#FF2768</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="turq">  #2EB5E0 </color>
+    <color name="orange"> #F2B84B </color>
+    <color name="green">#1DFF42</color>
+    <color name="red">#E00D0D</color>
+    <color name="splash">#C4DBE0</color>
+
+
+
+</resources>
